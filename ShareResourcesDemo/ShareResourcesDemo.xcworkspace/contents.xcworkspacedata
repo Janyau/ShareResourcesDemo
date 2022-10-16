@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DuplicateSchemeApp/DuplicateSchemeApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DestinationApp/DestinationApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SourceApp/SourceApp.xcodeproj">
+   </FileRef>
+</Workspace>
